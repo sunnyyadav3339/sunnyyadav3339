@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sunny Yadav
 I'm a developer focused on machine learning, deep learning and competitive programming. I've worked on RAG-based LLM applications and multimodal deep learning pipelines using PyTorch and LangChain. On the competitive programming side, I'm a Codeforces Expert (1668) and actively solve algorithmic challenges in C++ on platforms like Codeforces and LeetCode. Beyond AI, I'm interested in computer architecture and enjoy low level OS related works.
 
 
